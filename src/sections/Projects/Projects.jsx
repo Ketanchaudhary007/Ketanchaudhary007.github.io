@@ -33,7 +33,7 @@ function Projects() {
         />
         <ProjectCard
           src={fitLift}
-          link="https://www.artstation.com/ketan007"
+          link="https://www.artstation.com/ketanuix"
           h3="Illustrations"
           p="Digital Sketches"
           buttonLabel="ArtStation"
